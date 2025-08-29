@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.text({ type: "application/json" }));
 
 
-const FULL_NAME = "Samarthya Alok";
+const FULL_NAME = "samarthya alok";
 const DOB_DDMMYYYY = "21112004";
 const EMAIL = "samarthya777@gmail.com";
 const ROLL = "22BCE0460";
